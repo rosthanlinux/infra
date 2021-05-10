@@ -1,5 +1,5 @@
 
-# configuração inicial no nó mestre.
+# configuração do master node on premisse.
 
 Para a opção [--apiserver-advertise-address], especifique o endereço IP que o servidor da API Kubernetes escuta.
 
